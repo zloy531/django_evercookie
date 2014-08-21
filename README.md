@@ -73,6 +73,7 @@ settings.etag_cookie_name = 'etagstorage'
 settings.history = 'true'
 #Setting Django's STATIC_URL manually
 settings.static_url = '/cdn/'
+settings.domain = '.example.com'
 ```
 
 Using Templatetags
